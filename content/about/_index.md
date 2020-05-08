@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: About
 description: Hi! Welcome to my personal webpage
 type: page
 featured_image: "/images/space-bg.jpeg"
